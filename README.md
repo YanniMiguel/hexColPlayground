@@ -35,10 +35,10 @@ via the concatonation of strings. I made it 'move' the entire string (again, no 
 
 3.Apply the Best Java Coding Practices
 
-I used the proper naming conventions of varibles;
-did a do while loop for ease of printing the code all over again;
-used iteration to assign values for 12 colors;
-utilized the lock and key system of dictionaries;
-separated methods in their own classes for organization;
-finally used javadoc for comments
+- used the proper naming conventions of varibles;
+- did a do while loop for ease of printing the code all over again;
+- used iteration to assign values for 12 colors;
+- utilized the lock and key system of dictionaries;
+- separated methods in their own classes for organization;
+- finally used javadoc for comments
 

@@ -2,8 +2,8 @@
 CMSC 22 Final Project 
 
 Adrian Miguel Custodio
-BS Computer Scince II
-Project: Hex Color Code Calculator
+<p>BS Computer Scince II
+<p>Project: Hex Color Code Calculator
 
 1.Design Patterns Used
 

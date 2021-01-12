@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"HexColorPlayground","l":"basicColors"},{"p":"HexColorPlayground","l":"hexColPlay"},{"p":"HexColorPlayground","l":"oppositeOrTriadic"},{"p":"HexColorPlayground","l":"presetColors"}]

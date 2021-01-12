@@ -8,15 +8,15 @@ Project: Hex Color Code Calculator
 1.Design Patterns Used
 
 1.1 Creational Pattern:
--Factory Design Pattern
+- Factory Design Pattern
 I used this not only because I think it's neat, but also because it organizes things better that doesnt end up with me looking through long lines of code
 
 1.2 Structural Pattern:
--Facade Design Pattern
+- Facade Design Pattern
 This goes hand in hand with the Factory pattern as I separated the bigger equations into separate subclasses to make it easier for the user
 
 1.3 Behavioral Pattern:
--Template Method Design Pattern
+- Template Method Design Pattern
 Since Hexacodes follow a certain pattern/set of rules, I thought the Template Method design pattern would suit the program
 
 
@@ -29,7 +29,7 @@ I made the basicColors method a Main class. To checking the input, hex color cod
 that isn't in the proper way of #000000. I made an error catcher that would return an error message. Also formated that converting the numbers to hexadecimals would result to 
 2 digits each (e.g. 05)
 
--Did the same thing of making the method into a Main Class for oppositeOrTriadic. For Opposite, the concept there is to subtract 255 to each color. To test this at first, I didnt
+- Did the same thing of making the method into a Main Class for oppositeOrTriadic. For Opposite, the concept there is to subtract 255 to each color. To test this at first, I didnt
 cut the hexcode string into 3 parts and so the subtracting process didn't line up, giving me a negative value. Same goes for the Triadic process, where it relies on moving strings around
 via the concatonation of strings. I made it 'move' the entire string (again, no cutting of parts) and it just made the hexcode really long
 
